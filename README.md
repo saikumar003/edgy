@@ -1,27 +1,4 @@
 
-## Introduction <a id="introduction"></a>
-Welcome to the Edgy Social Media Marketing Agency's full-stack website! At Edgy, we're not just a business; we're your partners in navigating the dynamic landscape of Instagram marketing. Whether you're a budding influencer or a business looking to boost your brand's online visibility, we're here to help you stand out in the digital crowd.
-
-#### About Edgy:
-Edgy is a fictional social media marketing agency that specializes in Instagram growth strategies. Our team of passionate experts understands the ever-changing algorithms, trends, and techniques that define success on Instagram. With our tailored services and creative solutions, we're dedicated to helping you harness the power of this platform to its fullest potential.
-#### What We Offer:
-Comprehensive Services: Our website offers a diverse range of services designed to cater to both businesses and beginner influencers. From content creation and engagement strategies to influencer collaborations and brand partnerships, we've got you covered.
-
-Flexible Pricing Options: We understand that every journey is unique, which is why we offer a variety of pricing plans that can be customized to suit your specific needs and budget. Whether you're just starting out or looking to scale, we have a plan for you.
-
-Engaging Blog Content: Stay up-to-date with the latest trends, tips, and insights in the world of Instagram marketing through our informative blog. Our team of experts shares valuable information to empower you on your digital journey.
-
-Career Opportunities: Passionate about social media marketing? Explore exciting career prospects with Edgy on our dedicated career page. Join our team of creatives and strategists to make a lasting impact in the digital marketing space.
-#### Get in Touch:
-Contact Form: Have questions, inquiries, or simply want to say hello? Our contact form is designed to make reaching out to us quick and easy. We value your input and are always ready to assist you.
-
-## Disclaimer
-Please note that Edgy is a fictional business created for illustrative purposes. While our website and services are designed to provide insights into the world of social media marketing, we do not provide real services or consultations. This platform is intended to showcase a hypothetical business model.
-
-Thank you for visiting Edgy's website. We look forward to being a part of your journey towards Instagram success!
-
-Disclaimer: This is a fictional business created for demonstration purposes.
-
 ## Features
 
 The website offers a seamless user experience through its comprehensive account management features. Users have the ability to perform essential actions such as signing up, logging in, and modifying their profile information.
