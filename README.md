@@ -82,7 +82,3 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 - [Moment.js](https://www.npmjs.com/package/moment)
 
 
-Feel free to incorporate this project into your personal portfolio! Showcase your skills and creativity by featuring your adaptations or implementations of this project. Just make sure to follow the guidelines of the MIT License while doing so.
-
-Happy coding!
-
