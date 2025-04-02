@@ -1,11 +1,3 @@
-![Edgy](https://github.com/catherineisonline/edgy/blob/main/public/project-preview.png?raw=true)
-
-# [Edgy](https://edgy-media.vercel.app/) - #1 Instagram Growth Agency
-
-
-[![GitHub license](https://img.shields.io/github/license/catherineisonline/edgy)](https://github.com/catherineisonline/edgy/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/catherineisonline/edgy)](https://github.com/catherineisonline/edgy/issues)
-[![GitHub stars](https://img.shields.io/github/stars/catherineisonline/edgy)](https://github.com/catherineisonline/edgy/stargazers)
 
 ## Introduction <a id="introduction"></a>
 Welcome to the Edgy Social Media Marketing Agency's full-stack website! At Edgy, we're not just a business; we're your partners in navigating the dynamic landscape of Instagram marketing. Whether you're a budding influencer or a business looking to boost your brand's online visibility, we're here to help you stand out in the digital crowd.
@@ -98,11 +90,7 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Contribution <a id="contributiion"></a>
-This website is my way of showcasing the skills and talents I bring to the table. I've taken the lead in crafting this project, so I'm not currently seeking external contributions like pull requests.
-However, I'm definitely open to hearing your suggestions and ideas. Feel free to drop me a message using any of the social media platforms I have. If you're more of a community person, you can also join the [discussions](https://github.com/catherineisonline/edgy/discussions) and share your thoughts there.
-If you've got the urge to put your own spin on things, you're in luck! This project is fork-friendly, so you can take it, modify it, and make it your own. Let your creativity flow!
-Thanks for stopping by and checking out what I've put together here. I appreciate your interest and look forward to any insights you might have, even as I steer the ship on this project for now.
+
 
 ## Dependencies | API | Services used  <a id="dependencies"></a>
 - [HeroIcons](https://heroicons.com/)
@@ -117,10 +105,6 @@ Thanks for stopping by and checking out what I've put together here. I appreciat
 - [Moment.js](https://www.npmjs.com/package/moment)
 
 
-## License  <a id="license"></a>
-This project is released under the MIT [LICENSE](https://github.com/catherineisonline/edgy/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
-
-#### Build Your Portfolio:
 Feel free to incorporate this project into your personal portfolio! Showcase your skills and creativity by featuring your adaptations or implementations of this project. Just make sure to follow the guidelines of the MIT License while doing so.
 
 Happy coding!
